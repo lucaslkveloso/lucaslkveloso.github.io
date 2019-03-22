@@ -3,10 +3,10 @@ Projeto definido com todas as propriedades necessárias para automação de test
 
 Este Projeto Depende dos seguintes configurações:
 
-Maven
-Selenium
-Junit
-Hamcrest
-ChromeDriver
-Gecko Driver
+Maven<br>
+Selenium<br>
+Junit<br>
+Hamcrest<br>
+ChromeDriver<br>
+Gecko Driver<br>
 As dependências estão disponíveis <a href="https://1drv.ms/f/s!Ao4mka3vRXBHhqUieWxOF2EvfESftg" target="_blank">aqui</a> 
