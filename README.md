@@ -9,4 +9,4 @@ Junit
 Hamcrest
 ChromeDriver
 Gecko Driver
-As dependências estão disponíveis no link: https://1drv.ms/f/s!Ao4mka3vRXBHhqUieWxOF2EvfESftg
+<a target="_blank"As dependências estão disponíveis no link: https://1drv.ms/f/s!Ao4mka3vRXBHhqUieWxOF2EvfESftg>
